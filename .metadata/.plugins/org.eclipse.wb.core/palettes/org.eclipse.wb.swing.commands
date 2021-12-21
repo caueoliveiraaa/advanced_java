@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<moveEntry
+		id="system.layout.absolute"
+		category="org.eclipse.wb.swing.layouts"
+		nextEntry="org.eclipse.wb.swing.layouts java.awt.BorderLayout"/>
+</commands>
